@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_photo"
+        android:icon="@drawable/ic_baseline_photo_library_24"
+        android:title="Photo with Text"></item>
+
+    <item
+        android:id="@+id/nav_group"
+        android:icon="@drawable/ic_baseline_people_alt_24"
+        android:title="My groupmates"></item>
+
+    <item
+        android:id="@+id/nav_hobby"
+        android:icon="@drawable/ic_baseline_people_alt_24"
+        android:title="My hobbies"></item>
+</menu>
